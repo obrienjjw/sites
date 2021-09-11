@@ -1,0 +1,3 @@
+This command will move the files from one directory to another once pulled from git: sudo mv -v /jet/app/www/default/ninehilltech_site/* /jet/app/www/default
+
+This command will delete the directory once it is empty:    rm -rf ninehilltech_site
